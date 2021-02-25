@@ -1,1 +1,1 @@
-# quarkus_rest_app
+Quarkus guide: https://quarkus.io/guides/rest-client
